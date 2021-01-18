@@ -1,0 +1,68 @@
+# Page settings
+
+baseurl = "https://3d.geovbox.com/"
+languageCode = "en-us"
+title = "VBOX3D 1.0版本 计划2021年发布"
+copyright = "© VBOX3D"
+googleAnalytics = "UA-xxxxxxxx-x"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+theme = "hugo-theme-doors"
+
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+# Site information
+[params]
+description = ""
+ogimage = "images/VBOX3D-OverView.png"
+
+# Project section
+[params.projects]
+
+[[params.projects.list]]
+title = "预览"
+url = "images/VBOX3D-OverView.png"
+description = ""
+image = "images/VBOX3D-OverView.png"
+w = "780"
+h = "518"
+
+# Subproject section
+[params.subprojects]
+
+[[params.subprojects.list]]
+title = "示例1"
+url = "images/ex1.png"
+description = "颗粒堆积"
+image = "images/ex1.png"
+w = "518"
+h = "518"
+
+[[params.subprojects.list]]
+title = "菜单栏"
+url = "images/menu.png"
+description = "菜单栏"
+image = "images/menu.png"
+w = "277"
+h = "178"
+
+[[params.subprojects.list]]
+title = "工具栏"
+url = "images/tool.png"
+description = "工具栏"
+image = "images/tool.png"
+w = "333"
+h = "128"
+
+# Contact section
+[params.contact]
+description = "您希望VBOX3D有哪些功能？ 请通过以下邮件联系我."
+twitter = "#"
+facebook = ""
+linkedin = "#"
+github = "https://github.com/geovbox"
+email = "sheng0619@163.com"
+
+
+
