@@ -2,7 +2,7 @@
 
 baseurl = "https://3d.geovbox.com/"
 languageCode = "en-us"
-title = "VBOX3D 1.0版本 计划2021年发布"
+title = "VBOX3D 1.0 商业版 计划2021年发布"
 copyright = "© VBOX3D"
 googleAnalytics = "UA-xxxxxxxx-x"
 disableKinds = ["taxonomy", "taxonomyTerm"]
