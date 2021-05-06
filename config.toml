@@ -2,8 +2,8 @@
 
 baseurl = "https://3d.geovbox.com/"
 languageCode = "en-us"
-title = "VBOX3D 1.0 商业版 计划2021年发布"
-copyright = "© VBOX3D"
+title = "ZDEM3D 1.0 商业版 计划2021年发布"
+copyright = "© ZDEM3D"
 googleAnalytics = "UA-xxxxxxxx-x"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "hugo-theme-doors"
@@ -22,9 +22,9 @@ ogimage = "images/VBOX3D-OverView.png"
 
 [[params.projects.list]]
 title = "预览"
-url = "images/VBOX3D-OverView.png"
+url = "images/ZDEM3D-OverView.png"
 description = ""
-image = "images/VBOX3D-OverView.png"
+image = "images/ZDEM3D-OverView.png"
 w = "780"
 h = "518"
 
@@ -57,7 +57,7 @@ h = "128"
 
 # Contact section
 [params.contact]
-description = "您希望VBOX3D有哪些功能？ 请通过以下邮件联系我."
+description = "您希望ZDEM3D有哪些功能？ 请通过以下邮件联系我."
 twitter = "#"
 facebook = ""
 linkedin = "#"
